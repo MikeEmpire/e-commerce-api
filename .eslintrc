@@ -1,0 +1,10 @@
+{
+  "extends": ["airbnb"],
+  "env": {},
+  "rules": {
+    "no-underscore-dangle": 0,
+    "camelcase": 0,
+    "react/sort-comp": 0,
+    "no-continue": 0
+  }
+}
