@@ -15,7 +15,6 @@ const PORT = process.env.PORT || 3000;
  * INITIALIZE LOGGER
  *
  *********/
-
 const logger = require("morgan");
 
 app.use(logger("dev"));
